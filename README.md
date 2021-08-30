@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @p-alex
 - 👀 I’m interested in web development, working out, games
 - 🌱 I’m currently learning Nextjs
+- ✨ I'm currently working on a Netflix Clone made with Nextjs and Mongodb
 - 📫 How to reach me: alexey9021@gmail.com
 
 <!---
