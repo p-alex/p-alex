@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/28823915?v=4" width='100px'>
-
 <h2> Hey there! I'm Alex.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
