@@ -28,7 +28,7 @@ I am currently trying to learn as much stuff as possible so that eventually will
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/p-alex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-alex&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=buefy&layout=compact" />
 </a>
