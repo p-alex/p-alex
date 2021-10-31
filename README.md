@@ -36,7 +36,7 @@ I am currently trying to learn as much stuff as possible so that eventually will
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alexandru-daniel-pistol/" target='_blank'><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:alexey9021@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
-<img src="https://img.shields.io/badge/-Jordbær#9701-333333?style=flat&logo=discord" alt="Discord"/>
+<a href="https://www.linkedin.com/in/alexandru-daniel-pistol/" target='_blank'><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexandru%20Daniel%20Pistol-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:alexey9021@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alexey9021@gmail.com-blue?style=flat-square&logo=gmail"></a>
+![Discord](https://img.shields.io/badge/-Jordbær#9701-333333?style=flat&logo=discord)
 </p>
