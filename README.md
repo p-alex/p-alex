@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=p-alex)
 <h2> Hey there!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
