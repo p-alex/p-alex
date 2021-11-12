@@ -30,6 +30,7 @@ I am currently trying to learn as much stuff as possible so that eventually will
 <a href="https://github.com/p-alex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-alex&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=react&layout=compact" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&" alt="p-alex" />
 </a>
 
 <br/>
