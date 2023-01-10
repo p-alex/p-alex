@@ -25,6 +25,8 @@
 </a>
 
 <br/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=p-alex&label=Visitors&color=0e75b6&style=flat" alt="p-alex" />
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
