@@ -24,10 +24,6 @@
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=react" alt="p-alex" />
 </a>
 
-<br/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=p-alex&label=Visitors&color=0e75b6&style=flat" alt="p-alex" />
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
