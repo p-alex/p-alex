@@ -19,11 +19,12 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🔭 I’m currently working on [Youtube Clone](https://github.com/p-alex/youtube-clone)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-alex" alt="p-alex" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-alex" alt="p-alex" /></a> </p> -->
 
 <a href="https://github.com/p-alex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-alex&theme=react&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=react&layout=compact" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-alex&theme=react&show_icons=true" /> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=react&layout=compact" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=react" /><br/><br/>
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=react" alt="p-alex" />
 </a>
 
