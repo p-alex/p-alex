@@ -21,12 +21,12 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-alex" alt="p-alex" /></a> </p> -->
 
-<a href="https://github.com/p-alex">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-alex&theme=react&show_icons=true" /> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=react&layout=compact" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=react" /><br/><br/>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=react" alt="p-alex" />
-</a>
+<div style="display:flex; gap: 20px; align-items: center">
+    <img src="https://github-stats-alpha.vercel.app/api?username=p-alex&cc=151515&tc=FDFDFD&ic=FA8B00&bc=E4E2E2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=dark" alt="p-alex" />
+</div>
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=dark" />
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
