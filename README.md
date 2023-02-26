@@ -17,6 +17,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🔭 I’m currently working on [Youtube Clone](https://github.com/p-alex/youtube-clone)
+- 🔭 I’m currently learning react-query
 
 <div>
     <img src="https://github-stats-alpha.vercel.app/api?username=p-alex&cc=151515&tc=FDFDFD&ic=FA8B00&bc=E4E2E2" width="450" height="175" />
