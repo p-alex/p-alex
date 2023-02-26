@@ -18,14 +18,12 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🔭 I’m currently working on [Youtube Clone](https://github.com/p-alex/youtube-clone)
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-alex" alt="p-alex" /></a> </p> -->
-
 <div>
-    <img src="https://github-stats-alpha.vercel.app/api?username=p-alex&cc=151515&tc=FDFDFD&ic=FA8B00&bc=E4E2E2" width="450" height="180" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=dark" alt="p-alex" width="450" height="180"/>
+    <img src="https://github-stats-alpha.vercel.app/api?username=p-alex&cc=151515&tc=FDFDFD&ic=FA8B00&bc=E4E2E2" width="450" height="175" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=dark" alt="p-alex" width="450" height="175"/>
 </div>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=dark" width="300" height="285"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=dark" width="300" height="285"/>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
