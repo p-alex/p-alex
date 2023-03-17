@@ -20,11 +20,11 @@
 - 🔭 I’m currently learning react-query
 
 <div>
-    <img src="https://github-stats-alpha.vercel.app/api?username=p-alex&cc=151515&tc=FDFDFD&ic=FA8B00&bc=E4E2E2" width="450" height="175" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=dark" alt="p-alex" width="450" height="175"/>
+    <img src="https://github-stats-alpha.vercel.app/api?username=p-alex&cc=151515&tc=FDFDFD&ic=FA8B00&bc=E4E2E2" style="max-width: 450px; max-height: 175px; aspect-ration: 2.560693641618497" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=dark" alt="p-alex" style="max-width: 450px; max-height: 175px; aspect-ration: 2.560693641618497"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=dark" width="300" height="285"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=dark" width="300" height="285" style="max-width: 300px; max-height: 285px; aspect-ration: 1.052631578947368"/>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
