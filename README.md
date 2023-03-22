@@ -20,7 +20,6 @@
 - 🔭 I’m currently learning react-query
 
 <div>
-    <img src="https://github-stats-alpha.vercel.app/api?username=p-alex&cc=151515&tc=FDFDFD&ic=FA8B00&bc=E4E2E2" width="450" height="175" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=dark" alt="p-alex" width="450" height="175"/>
 </div>
 
@@ -31,5 +30,5 @@
 
 <p>
 <a href="https://www.linkedin.com/in/alexandru-daniel-pistol/" target='_blank'><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:alexey9021@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:alex.daniel9021@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
