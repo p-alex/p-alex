@@ -16,8 +16,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🔭 I’m currently working on [Youtube Clone](https://github.com/p-alex/youtube-clone)
-- 🔭 I’m currently learning react-query
 
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=dark" alt="p-alex" width="450" height="175"/>
