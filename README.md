@@ -19,7 +19,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=p-alex&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=200&type=png&hide_current_streak=true&hide_longest_streak=true" width="200" height="200" />
+  <img src="https://streak-stats.demolab.com?user=p-alex&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=200&type=svg&hide_current_streak=true&hide_longest_streak=true" width="200" height="200" />
 </div>
 
 
