@@ -19,15 +19,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-alex&theme=dark" alt="p-alex" width="450" height="175"/>
+  <img src="https://streak-stats.demolab.com?user=p-alex&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=200&type=png&hide_current_streak=true&hide_longest_streak=true" width="200" height="200" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-alex&theme=dark" width="300" height="285"/>
 
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
-<a href="https://www.linkedin.com/in/alexandru-daniel-pistol/" target='_blank'><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:alex.daniel9021@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
-</p>
