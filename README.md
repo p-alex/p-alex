@@ -9,6 +9,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+
                 
 ## 🌐 Backend
 
@@ -17,7 +18,11 @@
                
 ## 🛢 Database
 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+Currently learning:
+- C#
+- OOP
 <!--
 <div> 
    <img src="https://streak-stats.demolab.com?user=p-alex&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=200&type=svg&hide_current_streak=true&hide_longest_streak=true" width="200" height="200" /> 
