@@ -4,7 +4,6 @@
      
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-<!--![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)-->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
@@ -21,8 +20,3 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 Currently learning: Jest
-<!--
-<div> 
-   <img src="https://streak-stats.demolab.com?user=p-alex&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=200&type=svg&hide_current_streak=true&hide_longest_streak=true" width="200" height="200" /> 
-</div>
--->
