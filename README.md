@@ -19,4 +19,6 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-Currently learning: Jest, React Testing Library
+## 📖 Currently learning
+
+![Jest](https://img.shields.io/badge/Jest-333333?style=flat&logo=jest) ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-333333?style=flat&logo=testinglibrary)
