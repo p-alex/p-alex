@@ -19,4 +19,4 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-Currently learning: Jest
+Currently learning: Jest, React Testing Library
