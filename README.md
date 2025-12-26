@@ -24,6 +24,6 @@
 ![Jest](https://img.shields.io/badge/Jest-333333?style=flat&logo=jest) ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-333333?style=flat&logo=testinglibrary)<br/>
 Clean architecture
 
-Working on: [kanban-board](https://github.com/p-alex/kanban-board)
+Working on: [weather-app](https://github.com/p-alex/weather-app)
 
 
