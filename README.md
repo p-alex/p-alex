@@ -7,7 +7,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 
                 
 ## 🌐 Backend
