@@ -26,6 +26,6 @@
  ![Domain driven development](https://img.shields.io/badge/Domain%20Driven%20Development-333333?style=flat&logo=cleanarchitecture) ![Modular Monoliths](https://img.shields.io/badge/Modular%20Monoliths%20-333333?style=flat&logo=cleanarchitecture)
 
 <!-- Working on: [boardly](https://github.com/p-alex/boardly) -->
-Building an anime tracker full stack application.
+I am currently building a full-stack anime tracker application.
 
 
